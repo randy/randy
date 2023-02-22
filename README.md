@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **professional growth**
 
-- 🌱 I’m currently learning **JVM**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Groovy, ExtJS, MySQL, IntelliJ**
 

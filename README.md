@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Randy</h1>
 <h3 align="center">...runs on coffee</h3>
 
-- 🔭 I’m currently working on **professional growth**
+- 🔭 I’m currently working on **reducing the cognitive load of others on my team**
 
-- 🌱 I’m currently learning **k6** and all things **VM testing**.
+- 🌱 I’m currently learning **Hebrew** and all things **Docker**.
 
 - 💬 Ask me about **Groovy, ExtJS, MySQL, IntelliJ**
 

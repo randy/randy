@@ -18,6 +18,6 @@
 </p>
 
 <h3 align="left">daily.dev Dev Card:</h3>
-<a href="https://app.daily.dev/randy"><img src="https://api.daily.dev/devcards/v2/HXYbbGcBO38Rfv7RrCBdA.png?type=default&r=0z2" width="356" alt="Randy's Dev Card"/></a>
+<a href="https://app.daily.dev/randy"><img src="https://api.daily.dev/devcards/v2/HXYbbGcBO38Rfv7RrCBdA.png?type=default&r=1th" width="356" alt="Randy's Dev Card"/></a>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randy&" alt="randy" /></p> -->
